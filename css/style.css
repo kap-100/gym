@@ -14323,11 +14323,6 @@ table thead tr th:last-child {
   width: 100%;
 }
 
-.btn-group-sm > .btn,
-.btn-sm {
-  padding: 0.25rem 0.5rem;
-}
-
 [class*="btn-outline-"].background-white {
   background-color: #fff;
 }
@@ -15829,19 +15824,19 @@ body.navigation-sticky .header {
 .logo-img img {
   max-width: 220px;
   /* width: 100% */
-      padding: 5px 0;
+  padding: 5px 0;
 }
 
 @media (max-width: 768px) {
-    .main-wrapper {
-        padding-top: 54px!important;
-    }
+  .main-wrapper {
+    padding-top: 54px !important;
+  }
 
-    .logo-img img {
+  .logo-img img {
     max-width: 180px;
     width: 100%;
     padding: 0 0;
-    }
+  }
 
   .header .logo-img {
     position: absolute;
