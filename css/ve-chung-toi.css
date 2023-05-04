@@ -245,7 +245,7 @@ hr.horizontal-line {
 .mt-title {
   font-style: normal;
   font-weight: 500;
-  font-size: 20px;
+  font-size: 19px;
   line-height: 23px;
   margin-bottom: 70px;
 }
@@ -336,9 +336,6 @@ hr.horizontal-line {
     align-items: center;
     flex-direction: column;
   }
-}
-
-@media (min-width: 1024px) {
 }
 
 @media (min-width: 1024px) {
